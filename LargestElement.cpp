@@ -23,9 +23,10 @@ int main()
     }
     cout<<largeElement(a,n);
     
-     cout<<("nidhish);
+     cout<<("nidhish");
     
-     cout<<("I love Deloitte);
+     cout<<("I love Deloitte");
+    cout<<("hexaware is the best");
             
       
     
